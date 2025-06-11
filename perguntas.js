@@ -1,6 +1,6 @@
 criaCartao(
     'futebol'
-    'qual o maior goleador do mundo',
+    'qual o maior goleador do mundo?',
     'cristiano ronaldo'
 )
 
